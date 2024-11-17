@@ -1,2 +1,2 @@
 import error
-___ERROR___()
+error.___ERROR___()
